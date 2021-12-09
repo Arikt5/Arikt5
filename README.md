@@ -27,5 +27,5 @@
 </div>
   
 <div align="center">
-  <img alt="gif cobrinha" src="https://raw.githubusercontent.com/Arikt5/Arikt5/output/github-contribution-grid-snake.svg">
+  <img alt="svg cobrinha" src="https://raw.githubusercontent.com/Arikt5/Arikt5/output/github-contribution-grid-snake.svg">
 </div>
