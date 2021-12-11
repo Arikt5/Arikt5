@@ -1,7 +1,7 @@
 ### Hi there! I'm Maria Vitoria, but you can call me Ari! 👋
 
 <div>
-  <p>- 🌱 Studying: Java, Databases, Programming Logic</p>
+  <p>- 🌱 Studying: Java, Databases, Programming Logic, AWS</p>
   <p>- 😄 Pronouns: She/ Her</p>
 </div>
 
